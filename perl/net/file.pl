@@ -5,7 +5,7 @@ use IO::File;
 $file = new IO::File "/etc/passwd","r"; 
 
 
-
+# comments 
 
 
 while (<$file>) { 
